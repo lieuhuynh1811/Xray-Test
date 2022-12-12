@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgot your password</name>
+   <tag></tag>
+   <elementGuidId>aed0e44e-a5f0-4071-bf40-aad365a37d3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div/div/div[2]/form/div[7]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.px-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>843b4f49-043f-44b9-a035-8e2d6a859c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-0</value>
+      <webElementGuid>6da8420f-7f88-467e-865e-64f3aba1ce67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://my.katalon.com/login?view=forgot_password</value>
+      <webElementGuid>6096dfff-2e1a-4147-b036-e2046984e1ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot your password?</value>
+      <webElementGuid>2df7a65a-097e-4e2d-95b3-1b5a5602b431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;login-page flex-fill align-items-center mx-0 row&quot;]/div[@class=&quot;col-sm-8 offset-sm-4 col-md-7 offset-md-5 col-lg-4 offset-lg-5&quot;]/div[@class=&quot;login-card mx-auto shadow-none card&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;login-form m-0&quot;]/div[@class=&quot;forgot-password text-right mt-4 mb-0 pt-4 border-top form-group&quot;]/a[@class=&quot;px-0&quot;]</value>
+      <webElementGuid>f3809398-d5fc-498b-8dda-75333b5a4971</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div/div/div[2]/form/div[7]/a</value>
+      <webElementGuid>5c35ac56-4822-4141-9ecd-c7959332c6c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forgot your password?')]</value>
+      <webElementGuid>2e6ca380-d3e0-4ad0-8384-85c84222bd34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::a[1]</value>
+      <webElementGuid>50568430-2144-4b28-925f-bfa315ab03ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::a[1]</value>
+      <webElementGuid>36d2f51f-5f47-42e8-8641-6957d8f6d8cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forgot your password?']/parent::*</value>
+      <webElementGuid>0e8c1295-122a-4950-ae89-288adf11e48e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://my.katalon.com/login?view=forgot_password')]</value>
+      <webElementGuid>d3e16d2d-5965-41ee-b076-427e9cc90463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/a</value>
+      <webElementGuid>78f9b9b2-3ef4-4fa5-81a7-7e12b10d1943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://my.katalon.com/login?view=forgot_password' and (text() = 'Forgot your password?' or . = 'Forgot your password?')]</value>
+      <webElementGuid>00a2c622-2cf4-40c9-abc8-ce40c12b491f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
