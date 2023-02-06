@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://testops.staging.katalon.com/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Katalon TestOps/input_Sign Up_username'), 'ggfgfg')
+WebUI.setText(findTestObject('Object Repository/Page_Katalon TestOps/input_Sign U_username'), 'ggfgfg')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Katalon TestOps/input_Sign Up_password'), 'bYcJje6m/i3a7s6/roaqaA==')
 
