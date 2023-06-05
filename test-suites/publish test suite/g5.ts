@@ -1,37 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <TestSuiteEntity>
     <name>g5</name>
-    <testSuiteGuid>dfedb5bc-bfa8-4e34-b725-039aad81e910</testSuiteGuid>
+    <testSuiteGuid>66ea8238-cfb8-4484-a34f-2337518266d6</testSuiteGuid>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Folder3000/Test Case</testCaseId>
-        <guid>710a3237-b408-4c78-91f9-710510e5b3f5</guid>
+        <guid>e879ead9-ef12-48c0-9357-326baafd38df</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Test Case</testCaseId>
-        <guid>5887d238-7231-4cfe-bbb5-4c8e55734e7a</guid>
+        <guid>58e1cbba-f984-4367-9a27-be45eb98aa28</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Test Case 1</testCaseId>
-        <guid>ebbc0b51-d6c4-4d1f-8404-355cacd0709b</guid>
+        <guid>9beeed45-43e9-41ac-9dcf-c01b43e4d707</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/Folder2/Folder3/Test Case 1</testCaseId>
-        <guid>f96be582-435b-45df-9053-fdc175bbce90</guid>
+        <guid>95e389ce-0de5-41a0-bf0c-189f7730b9f0</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/Folder2/New Test Case</testCaseId>
-        <guid>0248f82f-e991-463d-96b9-a4cffd995520</guid>
+        <guid>ed827833-1379-4423-b7d0-6d0fff10b1e1</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/New test case</testCaseId>
-        <guid>aa05b4f4-5101-45f9-9120-138784703cae</guid>
+        <guid>37ae7c51-385a-4991-b896-5b863f5a1715</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/leoleo</testCaseId>
-        <guid>98e999bd-b635-4d2d-954d-c01a0954003e</guid>
+        <guid>c9a5b48f-2bb9-4506-80e0-339ffaf6584a</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/g5 draft</testCaseId>
-        <guid>3f92c5cf-6e25-420b-950b-efcd38bdd26a</guid>
+        <guid>73ca88fd-cce4-403c-aa19-a0c723133cc9</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Folder3000/Test Case</testCaseId>
+        <guid>77f45ba2-8e46-4f57-8039-1ab05e679630</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Test Case</testCaseId>
+        <guid>b1ce2215-cff4-43d1-8723-609fb7cda483</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Test Case 1</testCaseId>
+        <guid>91ad7baf-9927-4b54-9dd6-48e3f5291a3d</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/Folder2/Folder3/Test Case 1</testCaseId>
+        <guid>2be03c33-fc5e-42ac-b166-d56d1353da68</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/Folder2/New Test Case</testCaseId>
+        <guid>b9a8c275-1a18-40e4-b782-b08d8b0aad69</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/New test case</testCaseId>
+        <guid>6eacb555-c61f-4b5c-b823-68257bbda450</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/leoleo</testCaseId>
+        <guid>404859c7-c4ab-49f9-b300-cf5bdafebb86</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/g5 draft</testCaseId>
+        <guid>6347a34b-7e25-4a88-8457-cab7814bb5b0</guid>
     </testCaseLink>
 </TestSuiteEntity>
