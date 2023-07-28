@@ -1,1 +1,1 @@
-Ready to drive more traffic to your product pages than ever before? Download our free guide to advertising on Google Shopping!
+Step nef
