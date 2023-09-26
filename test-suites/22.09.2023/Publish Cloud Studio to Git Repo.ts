@@ -1,101 +1,149 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <TestSuiteEntity>
     <name>Publish Cloud Studio to Git Repo</name>
-    <testSuiteGuid>79e07639-99ae-48bc-8ae0-3a5806231ca5</testSuiteGuid>
+    <testSuiteGuid>1560a62d-3c32-4b49-8a10-2d0bda029138</testSuiteGuid>
     <testCaseLink>
         <testCaseId>test-cases/xray-test/Cleanup flag 27</testCaseId>
-        <guid>55d7d7fe-a7fa-49c9-b007-19c41cd6a9a9</guid>
+        <guid>446f0207-3403-4057-8e34-95723c04673e</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/xray-test/Katalon Cloud Turn Off flag</testCaseId>
-        <guid>3d041c5e-cdd2-4568-a3d7-940193f10f8c</guid>
+        <guid>06a2712b-4a10-4ba4-b724-5bd22684c85a</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/xray-test/New test case</testCaseId>
-        <guid>5eb0fb7f-f15a-4304-87c9-e0c13fd8d121</guid>
+        <guid>a84a0e32-f5fd-4654-adcb-554b6f4805fd</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/xray-test/draft g5 tc</testCaseId>
-        <guid>b2046a80-1bae-42f0-95e6-9773da121078</guid>
+        <guid>c3a7ad8b-7fc7-4ba5-a461-86c06ca66365</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/new-bae/draft test case</testCaseId>
-        <guid>eca1dc3b-1c3f-4bb8-9bc1-73e4c6825c2f</guid>
+        <guid>c3f56ce8-696a-46f8-a3dc-4f6d2692035a</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/M2023-07-26/Katalon Studio G5</testCaseId>
-        <guid>2f92a997-18e6-45e3-8f7e-6405575c38b4</guid>
+        <guid>70911f6b-920e-4404-8361-1e70e6893bd3</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/leo-bae/leoleo</testCaseId>
-        <guid>642bb673-a34d-4a69-9df9-90df7db8a98e</guid>
+        <guid>f7b7ffa8-2013-42b5-9583-42ea01e90435</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Folder3000/Test Case</testCaseId>
-        <guid>de36c1e3-3235-47e9-bc02-c344e461629d</guid>
+        <guid>dc5bbb8f-b1dc-40ac-9e7b-5cf617066337</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Test Case</testCaseId>
-        <guid>d8313a2e-8c9b-442b-bf49-7aed432a2dcf</guid>
+        <guid>26bf9003-dc8a-47ac-8071-5f9f9d2e73ac</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Test Case 1</testCaseId>
-        <guid>e23571c5-d5b9-419e-9e9f-9ad9993edc46</guid>
+        <guid>9e06d173-26d7-471c-9500-565465996f25</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/Folder2/Folder3/Test Case 1</testCaseId>
-        <guid>1413fa51-9537-449c-8958-9a2220ea2257</guid>
+        <guid>f87dccf0-6273-4c6e-a2ee-f42d9946b3d9</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/Folder2/New Test Case</testCaseId>
-        <guid>f5d097f6-b5e7-4fa9-b415-680ec86fe727</guid>
+        <guid>3d5cd21c-0357-45f0-a2d4-060ba968b230</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/New test case</testCaseId>
-        <guid>bdc0a4f6-2bf9-41ff-8406-377c2a06f287</guid>
+        <guid>55adc80a-7291-43db-b50f-80066c63a4d5</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/leoleo</testCaseId>
-        <guid>70e65c56-a5c6-4d3b-b5b2-eda36946d8bc</guid>
+        <guid>5ec35a89-4de0-4d0b-bbe2-2649f5e4e759</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/Folder1/publish without write permission</testCaseId>
-        <guid>ec93d98e-baf7-4af3-b57e-1dd02d0d74fc</guid>
+        <guid>84cadc5d-c3fc-409e-a75e-114b7eadd147</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/api/Test Case</testCaseId>
-        <guid>19aed557-6368-478a-b98e-dca090a6bb5e</guid>
+        <guid>3f663985-3cc7-47c1-902c-954ce73764bf</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/26.09.2023/Cloud Studio Published</testCaseId>
-        <guid>176d45c6-5966-450b-8869-6bb637d59aac</guid>
+        <guid>961e774d-ef23-4f9b-ae23-e90719616366</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/22.08.2023/Cleanup flag 27</testCaseId>
-        <guid>dd4786d9-c1c2-4a3d-88ba-8bb43d5ff64c</guid>
+        <guid>348cb438-e7ce-410b-967f-6785d94f0d87</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/22.08.2023/G5 Test Case</testCaseId>
-        <guid>62ced125-cf4a-46b2-957a-1ad5044161f5</guid>
+        <guid>48c3d934-4769-47a3-9931-6f50ff67a994</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/20.09.2023/G5</testCaseId>
-        <guid>fa3565af-1b11-4384-a595-2352cbc38c11</guid>
+        <guid>7911c338-6377-43c4-8960-498852a91bc8</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/20.09.2023/G5 Test Case</testCaseId>
-        <guid>44f471f9-0609-4d3d-aead-a32ae8567a20</guid>
+        <guid>6dc74efc-0aa3-47ee-9e55-6e4ef718b2d7</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/g5</testCaseId>
-        <guid>04621e4a-481b-46c1-b6e9-ccf1cf78f1cd</guid>
+        <guid>ae5c2085-a832-4241-b7f0-18eb205e1cb9</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/g5 draft</testCaseId>
-        <guid>ec0527a6-75c6-4250-9b22-eb52edea8273</guid>
+        <guid>3737ec43-7ca3-4938-9fa5-6a712bf3f8e0</guid>
     </testCaseLink>
     <testCaseLink>
         <testCaseId>test-cases/leoleo</testCaseId>
-        <guid>064ef332-99e3-4ca6-ac89-0eb404bcd6cc</guid>
+        <guid>396d25ad-dd02-47fb-aa13-c752235ec5eb</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/xray-test/Cleanup flag 27</testCaseId>
+        <guid>d19fabd5-0d66-40fb-9edf-7a74677bf9d1</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/xray-test/Katalon Cloud Turn Off flag</testCaseId>
+        <guid>c2c5c84d-4a3e-4037-9590-254872efebec</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/xray-test/New test case</testCaseId>
+        <guid>0ef5cd47-6d01-446f-b506-d5f5942e2a17</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/xray-test/draft g5 tc</testCaseId>
+        <guid>5147c063-d761-4478-819e-a2cb7372b758</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Folder3000/Test Case</testCaseId>
+        <guid>ff7883d8-2987-449d-82b4-79d0a4652382</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Test Case</testCaseId>
+        <guid>d79de534-d212-4be9-8091-a1ebe88d21a0</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/Folder2/Folder3/Folder4/Test Case 1</testCaseId>
+        <guid>e2a1164a-cd13-4fb8-abba-d14ffccb4f9d</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/Folder2/Folder3/Test Case 1</testCaseId>
+        <guid>ada144c6-6fb3-4ed5-b8e7-8cb551c25b81</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/Folder2/New Test Case</testCaseId>
+        <guid>8a7d101d-8969-417a-b3a2-7daed6e03749</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/New test case</testCaseId>
+        <guid>603a19e9-0c24-4c6f-812d-5f78cddeae9e</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/leoleo</testCaseId>
+        <guid>533096ae-63a6-4593-a0b8-b26c823ee6a8</guid>
+    </testCaseLink>
+    <testCaseLink>
+        <testCaseId>test-cases/Folder1/publish without write permission</testCaseId>
+        <guid>6efc30b1-6973-4dad-9fe4-e4227a7b1abe</guid>
     </testCaseLink>
 </TestSuiteEntity>
