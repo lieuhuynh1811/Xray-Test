@@ -12,24 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>9f439331-d5a2-40c7-be2e-caafb9cb0250</testSuiteGuid>
    <testCaseLink>
-      <guid>355fc567-f184-4d12-bf4c-b606c35aa6f4</guid>
+      <guid>4fbf56e4-6005-4e6a-ac22-ca4ccea04fb4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify user can logout</testCaseId>
+      <testCaseId>Test Cases/Verify user can login(refresh repo)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b9e30f80-3bda-4434-bd45-25dff001a0e6</guid>
+      <guid>2de23204-02d9-4133-8dd9-aa0aa566021a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify register account</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>823a8a67-215e-4710-9a45-86d4b49f7e2b</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify user can Filter Test Objects</testCaseId>
+      <testCaseId>Test Cases/Verify user can logout(refresh repo)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

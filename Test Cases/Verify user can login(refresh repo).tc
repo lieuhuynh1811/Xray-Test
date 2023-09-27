@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verify user can logout</name>
+   <name>Verify user can login(refresh repo)</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f22d408f-69a6-4e80-b148-c7fd04b28616</testCaseGuid>
+   <testCaseGuid>76aac8c8-7533-4982-ba5e-a4c65cdf7b8e</testCaseGuid>
 </TestCaseEntity>
