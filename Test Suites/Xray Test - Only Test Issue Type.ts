@@ -12,13 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>9f439331-d5a2-40c7-be2e-caafb9cb0250</testSuiteGuid>
    <testCaseLink>
-      <guid>4fbf56e4-6005-4e6a-ac22-ca4ccea04fb4</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify user can login(refresh repo)</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>2de23204-02d9-4133-8dd9-aa0aa566021a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
